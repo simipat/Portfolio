@@ -1700,7 +1700,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 .colorlib-nav-toggle.active i::before,
 .colorlib-nav-toggle.active i::after {
-  background: #000;
+  background: #ffffff;
 }
 .colorlib-nav-toggle.dark.active i::before,
 .colorlib-nav-toggle.dark.active i::after {
@@ -1734,7 +1734,7 @@ body.offcanvas .colorlib-nav-toggle {
   content: "";
   width: 30px;
   height: 3px;
-  background: #000;
+  background: #ffffff;
   position: absolute;
   left: 0;
   -webkit-transition: 0.2s;
@@ -1967,3 +1967,6 @@ margin: 4px;
     } 
   }
   
+.icon-color-black{
+  color: black;
+}
